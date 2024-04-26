@@ -1,0 +1,62 @@
+body {
+background-color: white;
+Font-family: Courier New;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+p {
+color: black;
+margin: auto;
+width: 50%;
+font-size: 16px;
+}
+
+
+h1 {
+color: blue;
+margin: auto;
+width: 50%;
+Font-size: 24px;
+}
+
+h2 {
+	color: white;
+	margin: auto;
+	width: 50%;
+	font-size: 20px;
+}
+
+form {
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	font-size: 20px;
+}
+
+input {
+	border-radius: 2px;
+}
+
+section {
+  margin: auto;
+  padding: 10px 10px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+
+.btn {
+	padding: 4px;
+	border-color: blue;
+	border-radius: 2px;
+	margin: 10px;
+}
+
+
+
+
+
+
